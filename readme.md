@@ -12,4 +12,4 @@ Just use this command to compile your website. (The output will be in ```_site``
 
 ```
 $ ./compile.sh
-``
+```
