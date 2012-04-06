@@ -1,7 +1,7 @@
 Jekyll Bootstrap
-====================
+================
 
-Jekyll Bootstrap is an already-done Jekyll structure featuring:
+[Jekyll](https://github.com/mojombo/jekyll) Bootstrap is an already-done Jekyll structure featuring:
 
 - HTML 5
 - SASS / Compass
@@ -12,4 +12,4 @@ Just use this command to compile your website. (The output will be in ```_site``
 
 ```
 $ ./compile.sh
-```
+``
