@@ -6,6 +6,15 @@ Jekyll Bootstrap
 - HTML 5
 - SASS / Compass
 
+## Requirements
+
+Before anything, you have to install sass, compass and jekyll in order to work correctly.
+
+```
+$ gem install compass
+$ gem install jekyll
+```
+
 ## Usage
 
 Just use this command to compile your website. (The output will be in ```_site```):
